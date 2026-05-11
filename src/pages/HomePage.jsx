@@ -15,7 +15,7 @@ export default function HomePage() {
 
       <div className="hero-content">
         <div className="hero-copy">
-          <p className="eyebrow">Medical Imaging · AI Analysis · 3D Mapping</p>
+          <p className="eyebrow">Medical Imaging - AI Analysis - 3D Mapping</p>
           <h1>
             <span>One smart</span>
             <span>platform for</span>
